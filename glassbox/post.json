@@ -1,0 +1,126 @@
+{
+  "slug": "torchclear",
+  "box": 139,
+  "question": "How does a torch work?",
+  "url": "https://glassbox.how/e/torchclear/",
+  "app": "https://glassbox.how/torchclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From a pile of metal discs in 1800 to a white LED the size of a grain of rice: how light got into your hand.\n\n1800: The first battery\n1886: The dry cell: a battery you can carry\n1899: The tubular torch is patented\n1899: Why it was called a \"flash\" light\n1904: The tungsten filament\n1922: Ten million torch users\n\nThe full story, with 33 moments, sources and charts: glassbox.how/e/torchclear/history (link in bio)\n\nThen play with how it works: glassbox.how/torchclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #torch #flashlight #circuit #battery #led #filamentbulb #history",
+      "youtube": {
+        "title": "The history of the torch in 45 seconds #shorts",
+        "description": "From a pile of metal discs in 1800 to a white LED the size of a grain of rice: how light got into your hand.\n\n1800 · The first battery (Alessandro Volta)\n1886 · The dry cell: a battery you can carry (Carl Gassner)\n1899 · The tubular torch is patented (David Misell, for Conrad Hubert’s company)\n1899 · Why it was called a \"flash\" light (Conrad Hubert)\n1904 · The tungsten filament (Sándor Just and Franjo Hanaman)\n1922 · Ten million torch users (American buyers)\n\n▶ Full history: https://glassbox.how/e/torchclear/history/\n▶ Play with it: https://glassbox.how/e/torchclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a torch work?\n\nTwo cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.\n\n→ A torch is two cells, a spring, a switch, a lamp and a mirror in a tube.\n→ The tail spring is not just a spring: it is a wire that carries the current.\n→ Current needs a closed loop: cell, lamp, strip, switch, strip, spring, and back into the cell.\n→ As cells run down they push less and waste more inside, so the bulb fades to orange.\n→ A filament bulb turns about 3% of its energy into light; a white LED manages about 40%.\n\nPlay with it yourself. It's free and open source: glassbox.how/torchclear (link in bio)\n\nBox No. 139 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #torch #flashlight #circuit #battery #led #filamentbulb #parabolicreflector #raytracing #drycell",
+    "carousel": "Swipe through: How does a torch work?\n\nTwo cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.\n\nSave this for later, then play with the interactive version at glassbox.how/torchclear (link in bio).\n\nBox No. 139 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #torch #flashlight #circuit #battery #led #filamentbulb",
+    "youtube": {
+      "title": "How does a torch work? #shorts",
+      "description": "Two cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.\n\n▶ Play with it: https://glassbox.how/e/torchclear/\n⌘ Source code (MIT): https://github.com/bdeeps/torchclear\n\nBox No. 139 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a torch work? (interactive explainer)",
+      "description": "Two cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.\n\n▶ Play with the interactive version: https://glassbox.how/e/torchclear/\n⌘ Source code (MIT): https://github.com/bdeeps/torchclear\n\nIn this video:\n• Ten parts in a tube. A torch is two cells, a spring, two metal strips, a switch, a lamp, a reflector, a lens and a case.\n• One closed loop. Current flows only round a complete circuit: out of the cell's + cap, through the lamp, along a strip to the switch, along another strip to the spring and back into the − end.\n• A hot wire against a glowing chip. A filament bulb makes light by being white-hot, at about 2,450 K, and wastes nearly all its energy as heat: about 8 lumens per watt.\n• A parabola makes the beam. The reflector is a parabola.\n• What is inside the cells. In a zinc-carbon cell the can itself is the fuel, which is why flat ones leak.\n• Torches with no shop-bought cells. A shake torch slides a magnet through a coil: the changing field makes a voltage, a capacitor stores the charge and an LED uses it.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a torch work?\n\nTwo cells, a spring, a switch and a mirror shaped like a parabola.\n\nPlay with it: https://glassbox.how/e/torchclear/",
+    "linkedin": "How does a torch work?\n\nTwo cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.\n\n1. Ten parts in a tube\n2. One closed loop\n3. A hot wire against a glowing chip\n4. A parabola makes the beam\n5. What is inside the cells\n6. Torches with no shop-bought cells\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 139 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/torchclear/\nCode: https://github.com/bdeeps/torchclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-03T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T10:08:28.502Z"
+}

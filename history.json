@@ -1,0 +1,941 @@
+{
+  "title": "The history of the torch",
+  "tagline": "From a pile of metal discs in 1800 to a white LED the size of a grain of rice: how light got into your hand.",
+  "intro": "A torch needed three inventions to meet: a battery that would not spill, a lamp with no flame, and a tube to put them in. They came together in New York in 1899, in a light so feeble it was only used in flashes. Tougher filaments, better cells and at last the white LED turned it into one of the most common machines on Earth.",
+  "eras": [
+    {
+      "id": "cells",
+      "name": "Power you can carry",
+      "from": 1800,
+      "to": 1895,
+      "color": "#c49bff",
+      "summary": "The battery is invented, then made dry so it can be carried. The electric lamp arrives. Nobody has yet put the two in one hand."
+    },
+    {
+      "id": "flash",
+      "name": "The flash light",
+      "from": 1896,
+      "to": 1920,
+      "color": "#ffb547",
+      "summary": "Mass-produced dry cells, a pasteboard tube and a tiny bulb make the first hand torch. Tungsten filaments make it bright enough to be useful."
+    },
+    {
+      "id": "home",
+      "name": "A torch in every home",
+      "from": 1921,
+      "to": 1967,
+      "color": "#7be08c",
+      "summary": "The torch spreads round the world and into Indian homes. The alkaline cell arrives and lasts several times longer."
+    },
+    {
+      "id": "tough",
+      "name": "Tough bodies, new cells",
+      "from": 1968,
+      "to": 1992,
+      "color": "#ff7a59",
+      "summary": "Machined aluminium torches for police, headlamps for cavers, rechargeable cells, and the long hunt for a blue LED."
+    },
+    {
+      "id": "led",
+      "name": "The LED age",
+      "from": 1993,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "A blue chip and a yellow phosphor make white light with little heat. Torches shrink, brighten and run for days."
+    }
+  ],
+  "events": [
+    {
+      "year": 1800,
+      "date": "1800",
+      "era": "cells",
+      "art": "battery",
+      "key": true,
+      "title": "The first battery",
+      "who": "Alessandro Volta",
+      "where": "Como and Pavia, Italy",
+      "country": "Italy",
+      "text": "Volta stacked discs of copper and zinc with brine-soaked cloth between them. The pile gave a steady electric current, something no one had had before.",
+      "why": "Every torch still works the same way: two different materials and something damp between them.",
+      "box": "cells",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1866,
+      "date": "1866",
+      "era": "cells",
+      "art": "flask",
+      "title": "Leclanché builds the cell that torches will use",
+      "who": "Georges Leclanché",
+      "where": "France",
+      "country": "France",
+      "text": "Leclanché made a cell with a zinc rod, manganese dioxide packed round a carbon rod, and a jar of ammonium chloride solution. It gave about 1.4 volts and was cheap, but it was a jar of liquid.",
+      "why": "Zinc, manganese dioxide and carbon are still the ingredients of the cheapest torch cells.",
+      "box": "cells",
+      "sources": [
+        5,
+        8
+      ]
+    },
+    {
+      "year": 1879,
+      "date": "1879",
+      "era": "cells",
+      "art": "candles",
+      "title": "A lamp with no flame",
+      "who": "Joseph Swan and Thomas Edison",
+      "where": "Newcastle, England and Menlo Park, USA",
+      "country": "United Kingdom / USA",
+      "text": "Swan in England and Edison in America each showed a practical lamp: a thin carbon filament glowing inside a glass bulb with the air pumped out.",
+      "why": "A light that needs no flame and no air can be sealed in a small glass bulb and carried in a pocket.",
+      "box": "lamp",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1886,
+      "date": "8 April 1886",
+      "era": "cells",
+      "art": "battery",
+      "key": true,
+      "title": "The dry cell: a battery you can carry",
+      "who": "Carl Gassner",
+      "where": "Mainz, Germany",
+      "country": "Germany",
+      "text": "Gassner, a doctor in Mainz, mixed the liquid of a Leclanché cell with plaster of Paris to make a paste and sealed it in a zinc can. The can was both the container and one of the electrodes. His German patent is dated 8 April 1886 and his US patent 15 November 1887.",
+      "why": "No free liquid means no spills. The cell works in any position, which a hand-held light needs.",
+      "box": "cells",
+      "sources": [
+        6,
+        7,
+        5
+      ]
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "cells",
+      "art": "person",
+      "title": "Other inventors reach the dry cell too",
+      "who": "Sakizō Yai and Wilhelm Hellesen",
+      "where": "Tokyo, Japan and Copenhagen, Denmark",
+      "country": "Japan / Denmark",
+      "text": "In Japan, the clockmaker Sakizō Yai developed a dry battery in 1887 and patented it in 1892. In Denmark, Wilhelm Hellesen developed his own design in the same year.",
+      "why": "The dry cell was an idea whose time had come, on three continents at once.",
+      "sources": [
+        5
+      ]
+    },
+    {
+      "year": 1896,
+      "date": "1896",
+      "era": "flash",
+      "art": "battery",
+      "title": "Dry cells made by the thousand",
+      "who": "National Carbon Company",
+      "where": "Cleveland, Ohio, USA",
+      "country": "USA",
+      "text": "The National Carbon Company began selling the Columbia, the first mass-produced dry cell. It was a tall 1.5 volt cell made for telephones and doorbells.",
+      "why": "Cheap, standard cells were now on shop shelves, waiting for something to power.",
+      "sources": [
+        5,
+        0
+      ]
+    },
+    {
+      "year": 1899,
+      "date": "10 January 1899",
+      "era": "flash",
+      "art": "spotlight",
+      "key": true,
+      "title": "The tubular torch is patented",
+      "who": "David Misell, for Conrad Hubert’s company",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Misell, an English inventor working in New York, filed his \"electric device\" on 12 March 1898 and received US patent 617,592 on 10 January 1899. It put dry cells end to end in a pasteboard tube \"shaped somewhat like a policeman’s club\", with a small lamp, a reflector and a lens at one end and a contact ring you pressed to make it light.",
+      "why": "It is the layout almost every torch has used since: cells in a row, lamp at the front, a contact to close the loop.",
+      "box": "anatomy",
+      "sources": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1899,
+      "date": "c. 1899",
+      "era": "flash",
+      "art": "flash",
+      "key": true,
+      "title": "Why it was called a \"flash\" light",
+      "who": "Conrad Hubert",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Hubert, a Russian immigrant who sold battery novelties, gave some of the new lights to New York City policemen, who liked them. The weak carbon-filament bulbs and early zinc-carbon cells could only manage short bursts before the cells needed a rest, so the light was used in flashes. The sources disagree on when Hubert founded his company (1888, 1896 and 1898 are all given).",
+      "why": "The name stuck in North America long after torches could stay on for hours.",
+      "box": "circuit",
+      "sources": [
+        0,
+        36,
+        2
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "era": "flash",
+      "art": "word",
+      "title": "Britain gets the \"electric torch\"",
+      "who": "American Electrical Novelty and Manufacturing Company Ltd",
+      "where": "London, England",
+      "country": "United Kingdom",
+      "text": "Hubert’s firm set up a British company in 1901. By about 1905 it was the British Ever Ready Electrical Company, selling the same lights under a different name: the electric torch.",
+      "why": "The older word for a burning stick was handed on to the new light, and Britain, India and much of the Commonwealth still use it.",
+      "sources": [
+        32,
+        33
+      ]
+    },
+    {
+      "year": 1904,
+      "date": "13 December 1904",
+      "era": "flash",
+      "art": "spring2",
+      "key": true,
+      "title": "The tungsten filament",
+      "who": "Sándor Just and Franjo Hanaman",
+      "where": "Budapest, Hungary",
+      "country": "Hungary",
+      "text": "Just and Hanaman were granted a Hungarian patent for a lamp with a tungsten filament, and the Tungsram company began selling such lamps. Tungsten can run hotter than carbon, so it gave about three times as much light for the same power.",
+      "why": "A brighter, more efficient bulb turned the torch from a novelty into a useful tool.",
+      "box": "lamp",
+      "sources": [
+        12,
+        0
+      ]
+    },
+    {
+      "year": 1905,
+      "date": "1905",
+      "era": "flash",
+      "art": "earth",
+      "title": "Dry cells reach India",
+      "who": "Importers for the American company",
+      "where": "Calcutta and other cities, India",
+      "country": "India",
+      "text": "The Eveready brand dates its start in India to 1905, when the first dry cells were imported from the United States and sold in the major cities. In the same year Hubert renamed his firm The American Ever Ready Company.",
+      "why": "It is the beginning of the torch’s long history in India.",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1907,
+      "date": "1907 and 1911",
+      "era": "flash",
+      "art": "battery",
+      "title": "Smaller cells: AA and AAA",
+      "who": "The American Ever Ready Company",
+      "where": "New York, USA",
+      "country": "USA",
+      "text": "Ever Ready introduced the AA dry cell in 1907 and developed the AAA in 1911. Pocket-sized lights followed.",
+      "why": "The sizes are still the world’s most common, more than a century later.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1911,
+      "date": "1911",
+      "era": "flash",
+      "art": "wrench",
+      "title": "Tungsten that can be drawn into wire",
+      "who": "William D. Coolidge, General Electric",
+      "where": "Schenectady, New York, USA",
+      "country": "USA",
+      "text": "Early tungsten filaments were brittle and broke when knocked. Coolidge found a way to make tungsten ductile so it could be drawn into tough wire. General Electric sold lamps made with it from 1911, and his patent was granted in 1913.",
+      "why": "A torch gets dropped. Its bulb needed a filament that could take it.",
+      "box": "lamp",
+      "sources": [
+        13,
+        12
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "1914",
+      "era": "flash",
+      "art": "building",
+      "title": "The battery makers buy the torch maker",
+      "who": "National Carbon Company",
+      "where": "Cleveland, Ohio, USA",
+      "country": "USA",
+      "text": "The American Ever Ready Company became part of the National Carbon Company in 1914. In 1917 National Carbon merged into what became Union Carbide.",
+      "why": "The same firm now made the torch and the cells that went into it.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1914,
+      "date": "1914–1915",
+      "era": "flash",
+      "art": "mountain",
+      "title": "An electric lamp on a miner’s cap",
+      "who": "Thomas Edison",
+      "where": "USA",
+      "country": "USA",
+      "text": "Edison made electric cap lamps for miners in 1914. By 1915 some models were approved by the United States Bureau of Mines for use in coal mines with flammable gas. A cap lamp of about 1917 gave only 2 to 5 lumens after a 12-hour shift.",
+      "why": "A sealed electric light could not set off mine gas the way a flame could.",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1922,
+      "date": "1922",
+      "era": "home",
+      "art": "person",
+      "key": true,
+      "title": "Ten million torch users",
+      "who": "American buyers",
+      "where": "USA",
+      "country": "USA",
+      "text": "By 1922 there were an estimated 10 million torch users in the United States. Sales of torches and replacement cells came to about 20 million dollars a year.",
+      "why": "In about twenty years the torch had gone from a curiosity to something found in most homes.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1934,
+      "date": "12 November 1934",
+      "era": "home",
+      "art": "building",
+      "title": "An Indian company",
+      "who": "Eveready Company (India)",
+      "where": "Calcutta, India",
+      "country": "India",
+      "text": "The business was incorporated in India as a private company on 12 November 1934. Its first modern battery plant, the Camperdown Works at Cossipore in Calcutta, opened in 1939, and it was renamed Union Carbide India in 1951.",
+      "why": "Cells were now made in India instead of being shipped in.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1942,
+      "date": "early 1940s",
+      "era": "home",
+      "art": "magnet",
+      "title": "A torch you squeeze",
+      "who": "Philips",
+      "where": "Eindhoven, Netherlands",
+      "country": "Netherlands",
+      "text": "In the occupied Netherlands during the Second World War, Philips made dynamo torches. Squeezing a lever spun a small flywheel and generator to light the bulb, with no cells at all.",
+      "why": "When cells were scarce, people became the battery. The same idea returned later as crank and shake torches.",
+      "box": "others",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 1958,
+      "date": "1958",
+      "era": "home",
+      "art": "spotlight",
+      "key": true,
+      "title": "A torch factory in Lucknow",
+      "who": "Union Carbide India (Eveready)",
+      "where": "Lucknow, India",
+      "country": "India",
+      "text": "The company set up a torch plant in Lucknow in 1958, described as one of the largest in South Asia. It makes brass, aluminium and plastic torches, among them the brass Jeevan Sathi, which the maker says has been handed down through generations in rural homes because it can be repaired.",
+      "why": "For millions of Indian households the torch was the light for power cuts, night walks and fields.",
+      "box": "anatomy",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1957–1959",
+      "era": "home",
+      "art": "battery",
+      "key": true,
+      "title": "The alkaline cell",
+      "who": "Lewis Urry, Karl Kordesch and Paul Marsal",
+      "where": "Parma, Ohio, USA",
+      "country": "USA",
+      "text": "Urry, a Canadian engineer at Eveready’s laboratory, used powdered zinc with manganese dioxide and an alkaline electrolyte. To convince his managers he raced two toy cars round the canteen: the one with his cell went much further. The patent was filed on 9 October 1957 and the cells went on sale in 1959.",
+      "why": "An alkaline cell runs a torch several times longer than a zinc-carbon cell of the same size.",
+      "box": "cells",
+      "sources": [
+        10,
+        9,
+        11
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "tough",
+      "art": "wrench",
+      "title": "The aluminium police torch",
+      "who": "Donald Keller and Frank Patti (Kel-Lite)",
+      "where": "San Dimas, California, USA",
+      "country": "USA",
+      "text": "Keller, a Los Angeles County deputy sheriff, was tired of flimsy torches. He began work on a tough one in 1964, and the first Kel-Lites were made in 1968 from thick 6061 aluminium.",
+      "why": "The torch became a piece of safety equipment that could survive being dropped, soaked and knocked about.",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1973,
+      "date": "1973",
+      "era": "tough",
+      "art": "mountain",
+      "title": "A light for the head",
+      "who": "Fernand Petzl",
+      "where": "Crolles, France",
+      "country": "France",
+      "text": "The caver Fernand Petzl developed his first mountaineering headlamp in 1973. His company was founded in 1975 and its Zoom headlamp of 1981 let the user adjust the beam.",
+      "why": "Both hands are free when the torch is on your head.",
+      "box": "others",
+      "sources": [
+        17,
+        16
+      ]
+    },
+    {
+      "year": 1979,
+      "date": "1979",
+      "era": "tough",
+      "art": "focus",
+      "key": true,
+      "title": "The Maglite",
+      "who": "Anthony Maglica, Mag Instrument",
+      "where": "Ontario, California, USA",
+      "country": "USA",
+      "text": "Maglica’s Maglite was introduced in 1979 for police and industry. It was machined from anodised aluminium, patterned on the Kel-Lite, and its head twisted to move the bulb against the reflector and change the beam from spot to flood. The AA-sized Mini Maglite followed in 1984.",
+      "why": "Twisting the head moves the lamp on and off the reflector’s focus: the trick in the reflector chapter.",
+      "box": "reflector",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1989,
+      "date": "1989",
+      "era": "tough",
+      "art": "chip",
+      "title": "A blue LED, at last",
+      "who": "Isamu Akasaki and Hiroshi Amano",
+      "where": "Nagoya, Japan",
+      "country": "Japan",
+      "text": "Red and green LEDs had existed for decades, but blue had defeated everyone. At Nagoya University, Akasaki and Amano grew good gallium nitride crystals in 1985, and in 1989 they made the first gallium nitride blue LED with a proper p-n junction.",
+      "why": "Without blue there can be no white LED light.",
+      "box": "lamp",
+      "sources": [
+        21,
+        24
+      ]
+    },
+    {
+      "year": 1991,
+      "date": "1991",
+      "era": "tough",
+      "art": "battery",
+      "title": "Rechargeable cells grow up",
+      "who": "Sony and Asahi Kasei",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "The first consumer NiMH cells went on sale in 1989. In 1991 Sony and Asahi Kasei sold the first lithium-ion cells, built on the work of Stanley Whittingham, John Goodenough and Akira Yoshino. The 18650 size, 18 mm by 65 mm, dates from this time.",
+      "why": "A lithium-ion cell gives 3.6 volts and can be recharged hundreds of times: the power behind most bright torches today.",
+      "box": "cells",
+      "sources": [
+        25,
+        27,
+        26
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "led",
+      "art": "chip",
+      "key": true,
+      "title": "A blue LED bright enough to sell",
+      "who": "Shuji Nakamura, Nichia",
+      "where": "Tokushima, Japan",
+      "country": "Japan",
+      "text": "Working at the small chemical company Nichia, Nakamura developed a way to make high-brightness gallium nitride blue LEDs that suited mass production.",
+      "why": "Bright blue chips were the missing part for white LED lamps.",
+      "box": "lamp",
+      "sources": [
+        22,
+        20
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "led",
+      "art": "night",
+      "title": "An LED light on a key ring",
+      "who": "Photon Micro-Light",
+      "where": "USA",
+      "country": "USA",
+      "text": "The Photon Micro-Light, a single LED squeezed between two coin cells, went on sale in 1995 according to its sellers. It was one of the first popular LED torches.",
+      "why": "It showed that an LED and tiny cells could make a useful light that ran for hours.",
+      "sources": [
+        35
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "autumn 1996",
+      "era": "led",
+      "art": "colour",
+      "key": true,
+      "title": "White light from a blue chip",
+      "who": "Nichia",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "The first white LEDs went on sale in the autumn of 1996. Each was a blue LED chip coated with a yellow phosphor of cerium-doped YAG. Part of the blue is turned to yellow, and the mixture looks white.",
+      "why": "This is the lamp inside nearly every torch sold today.",
+      "box": "lamp",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1999,
+      "date": "1999–2001",
+      "era": "led",
+      "art": "spotlight",
+      "title": "A one-watt LED, and the torches built on it",
+      "who": "Lumileds; Arc Flashlight",
+      "where": "USA",
+      "country": "USA",
+      "text": "In 1999 Lumileds introduced the Luxeon, a high-power white LED. The first torch built round a Luxeon was the Arc LS, designed in 2001. In 2000 Petzl sold the first LED headlamps under the name Tikka.",
+      "why": "LEDs moved from key-ring glow to real beams.",
+      "box": "lamp",
+      "sources": [
+        0,
+        17
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "led",
+      "art": "magnet",
+      "title": "The shake torch",
+      "who": "Direct-marketing sellers",
+      "where": "USA",
+      "country": "USA",
+      "text": "Torches with a magnet sliding through a coil, a capacitor and an LED were sold in the United States from 2002. About 30 seconds of hard shaking may give up to 5 minutes of light.",
+      "why": "An LED needs so little power that a moving magnet can run it: Faraday’s law in your hand.",
+      "box": "others",
+      "sources": [
+        28
+      ]
+    },
+    {
+      "year": 2009,
+      "date": "2009",
+      "era": "led",
+      "art": "scales",
+      "title": "One way to measure a torch",
+      "who": "ANSI and NEMA",
+      "where": "USA",
+      "country": "USA",
+      "text": "The ANSI FL 1 standard, published in 2009, set out how to test light output, beam distance, run time, and resistance to drops and water. Beam distance is where the light falls to 0.25 lux. Run time ends when the light falls to 10% of its value 30 seconds after switch-on.",
+      "why": "Lumens, metres and hours on a torch’s box now mean the same thing from maker to maker.",
+      "box": "reflector",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2014,
+      "date": "7 October 2014",
+      "era": "led",
+      "art": "trophy",
+      "key": true,
+      "title": "A Nobel Prize for the blue LED",
+      "who": "Isamu Akasaki, Hiroshi Amano and Shuji Nakamura",
+      "where": "Stockholm, Sweden",
+      "country": "Sweden",
+      "text": "The three shared the Nobel Prize in Physics \"for the invention of efficient blue light-emitting diodes which has enabled bright and energy-saving white light sources\".",
+      "why": "The prize committee pointed to the people with no mains electricity, for whom an LED lamp on a small battery is the first good light.",
+      "box": "lamp",
+      "sources": [
+        24,
+        23
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "2019–2021",
+      "era": "led",
+      "art": "flame",
+      "title": "Power, and care",
+      "who": "Nobel committee; US Consumer Product Safety Commission",
+      "where": "Stockholm, Sweden and Washington, USA",
+      "country": "Sweden / USA",
+      "text": "Whittingham, Goodenough and Yoshino received the 2019 Nobel Prize in Chemistry for the lithium-ion battery. On 8 January 2021 the US safety regulator warned people not to use loose 18650 cells: their bare metal ends can short-circuit on keys or coins and they have no protection circuit, so they can overheat and catch fire.",
+      "why": "A cell that stores this much energy has to be treated with respect.",
+      "box": "cells",
+      "sources": [
+        25,
+        29
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First battery",
+      "value": "1800",
+      "who": "Alessandro Volta, Italy"
+    },
+    {
+      "label": "First dry cell patent",
+      "value": "8 April 1886",
+      "who": "Carl Gassner, Germany"
+    },
+    {
+      "label": "First mass-produced dry cell",
+      "value": "1896",
+      "who": "National Carbon Company (Columbia), USA"
+    },
+    {
+      "label": "Patent for the tubular hand torch",
+      "value": "10 January 1899",
+      "who": "David Misell, US 617,592"
+    },
+    {
+      "label": "Tungsten filament lamp patent",
+      "value": "13 December 1904",
+      "who": "Sándor Just and Franjo Hanaman, Hungary"
+    },
+    {
+      "label": "Alkaline cells on sale",
+      "value": "1959",
+      "who": "Lewis Urry’s design, Eveready, USA"
+    },
+    {
+      "label": "First heavy aluminium police torch",
+      "value": "1968",
+      "who": "Kel-Lite, California"
+    },
+    {
+      "label": "First white LEDs on sale",
+      "value": "autumn 1996",
+      "who": "Nichia, Japan"
+    },
+    {
+      "label": "Torch test standard",
+      "value": "2009",
+      "who": "ANSI FL 1"
+    }
+  ],
+  "people": [
+    {
+      "name": "Alessandro Volta",
+      "life": "1745 – 1827",
+      "role": "Physicist",
+      "from": "Italy",
+      "note": "Built the first battery, a pile of zinc and copper discs. The volt is named after him."
+    },
+    {
+      "name": "Georges Leclanché",
+      "life": "1839 – 1882",
+      "role": "Engineer",
+      "from": "France",
+      "note": "Invented the zinc and manganese dioxide cell that cheap torch cells still copy."
+    },
+    {
+      "name": "Carl Gassner",
+      "life": "1855 – 1942",
+      "role": "Physician and inventor",
+      "from": "Germany",
+      "note": "Turned the wet Leclanché cell into a sealed dry cell in a zinc can."
+    },
+    {
+      "name": "Sakizō Yai",
+      "life": "1864 – 1927",
+      "role": "Clockmaker and inventor",
+      "from": "Japan",
+      "note": "Developed a dry battery in Tokyo in 1887, independently of Gassner."
+    },
+    {
+      "name": "Conrad Hubert",
+      "life": "c. 1856 – 1928",
+      "role": "Businessman",
+      "from": "Russian Empire, later USA",
+      "note": "Born Akiba Horowitz. His novelty company sold the first tubular torches and became Ever Ready."
+    },
+    {
+      "name": "David Misell",
+      "life": "dates uncertain",
+      "role": "Inventor",
+      "from": "England, working in New York",
+      "note": "Patented the tubular torch in 1899 and assigned it to Hubert’s company."
+    },
+    {
+      "name": "Sándor Just and Franjo Hanaman",
+      "life": "1874 – 1937 and 1878 – 1941",
+      "role": "Chemists",
+      "from": "Hungary and Croatia",
+      "note": "Patented the tungsten filament lamp in 1904."
+    },
+    {
+      "name": "William D. Coolidge",
+      "life": "1873 – 1975",
+      "role": "Physicist",
+      "from": "USA",
+      "note": "Made tungsten ductile, so filaments could survive knocks."
+    },
+    {
+      "name": "Lewis Urry",
+      "life": "1927 – 2004",
+      "role": "Chemical engineer",
+      "from": "Canada",
+      "note": "Invented the modern alkaline cell and proved it with a toy car race."
+    },
+    {
+      "name": "Donald Keller",
+      "life": "active 1960s–1980s",
+      "role": "Deputy sheriff and torch maker",
+      "from": "USA",
+      "note": "Designed the Kel-Lite, the first heavy-duty aluminium torch."
+    },
+    {
+      "name": "Anthony Maglica",
+      "life": "born 1930",
+      "role": "Machinist and founder of Mag Instrument",
+      "from": "USA (raised in Croatia)",
+      "note": "Made the Maglite, the adjustable-beam aluminium torch of 1979."
+    },
+    {
+      "name": "Isamu Akasaki and Hiroshi Amano",
+      "life": "1929 – 2021 and born 1960",
+      "role": "Physicists",
+      "from": "Japan",
+      "note": "Grew the gallium nitride crystals and made the first p-n junction blue LED, in Nagoya."
+    },
+    {
+      "name": "Shuji Nakamura",
+      "life": "born 1954",
+      "role": "Engineer",
+      "from": "Japan",
+      "note": "Made the blue LED bright and manufacturable at Nichia. Shared the 2014 Nobel Prize."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The 1899 patent describes the first torch as a pasteboard tube \"shaped somewhat like a policeman’s club\".",
+    "A classic two-cell torch bulb gives about 10 lumens, close to one candle. A one-watt white LED gives more than ten times that.",
+    "Lewis Urry’s hand-built alkaline cell is kept at the Smithsonian, in the same museum as Edison’s light bulb.",
+    "By the torch standard, a beam \"reaches\" as far as the point where it is down to 0.25 lux, roughly the light of a full moon.",
+    "For inventing the bright blue LED, Shuji Nakamura first received a bonus of 20,000 yen, about 180 US dollars. He later settled with his old employer for 840 million yen."
+  ],
+  "sources": [
+    {
+      "title": "Flashlight",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flashlight"
+    },
+    {
+      "title": "US 617,592: Electric device (David Misell, 1899)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US617592A/en"
+    },
+    {
+      "title": "Eveready Battery Company",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eveready_Battery_Company"
+    },
+    {
+      "title": "Eveready Industries India",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eveready_Industries_India"
+    },
+    {
+      "title": "Evergreen brass and aluminium torches (Jeevan Sathi)",
+      "publisher": "Eveready Industries India",
+      "url": "https://www.evereadyindia.com/flashlight/evergreen-brass-aluminium-torches.aspx"
+    },
+    {
+      "title": "History of the battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_battery"
+    },
+    {
+      "title": "Carl Gassner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Gassner"
+    },
+    {
+      "title": "US 373,064: Galvanic battery (Carl Gassner, 1887)",
+      "publisher": "Google Patents",
+      "url": "https://patents.google.com/patent/US373064"
+    },
+    {
+      "title": "Zinc–carbon battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Zinc%E2%80%93carbon_battery"
+    },
+    {
+      "title": "Alkaline battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alkaline_battery"
+    },
+    {
+      "title": "Lewis Urry",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lewis_Urry"
+    },
+    {
+      "title": "The National Carbon Company / Lewis Frederick Urry (historical marker 105-18)",
+      "publisher": "Remarkable Ohio, Ohio History Connection",
+      "url": "https://remarkableohio.org/marker/105-18-the-national-carbon-company-lewis-frederick-urry/"
+    },
+    {
+      "title": "Incandescent light bulb",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Incandescent_light_bulb"
+    },
+    {
+      "title": "William D. Coolidge",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_D._Coolidge"
+    },
+    {
+      "title": "Lamp rerating",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lamp_rerating"
+    },
+    {
+      "title": "PR2 miniature lamp: 2.38 V, 0.5 A, 0.8 MSCP, 15 h",
+      "publisher": "Bulbs.com catalogue",
+      "url": "https://www.bulbs.com/product/PR2"
+    },
+    {
+      "title": "Headlamp (outdoor)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Headlamp_(outdoor)"
+    },
+    {
+      "title": "Petzl",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Petzl"
+    },
+    {
+      "title": "Kel-Lite",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kel-Lite"
+    },
+    {
+      "title": "Maglite",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Maglite"
+    },
+    {
+      "title": "Light-emitting diode",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Light-emitting_diode"
+    },
+    {
+      "title": "Isamu Akasaki",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Isamu_Akasaki"
+    },
+    {
+      "title": "Shuji Nakamura",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shuji_Nakamura"
+    },
+    {
+      "title": "The Nobel Prize in Physics 2014: press release",
+      "publisher": "The Royal Swedish Academy of Sciences",
+      "url": "https://www.nobelprize.org/prizes/physics/2014/press-release/"
+    },
+    {
+      "title": "The Nobel Prize in Physics 2014",
+      "publisher": "Kungl. Vetenskapsakademien",
+      "url": "https://kva.se/en/news/nobelpriset-i-fysik-2014-2"
+    },
+    {
+      "title": "Lithium-ion battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lithium-ion_battery"
+    },
+    {
+      "title": "18650 battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/18650_battery"
+    },
+    {
+      "title": "Nickel–metal hydride battery",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nickel%E2%80%93metal_hydride_battery"
+    },
+    {
+      "title": "Mechanically powered flashlight",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mechanically_powered_flashlight"
+    },
+    {
+      "title": "CPSC consumer safety warning on loose 18650 lithium-ion cells (8 January 2021)",
+      "publisher": "US Consumer Product Safety Commission",
+      "url": "https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-Issues-Consumer-Safety-Warning-Serious-Injury-or-Death-Can-Occur-if-Lithium-Ion-Battery-Cells-Are-Separated-from-Battery-Packs-and-Used-to-Power-Devices"
+    },
+    {
+      "title": "Energizer E95 (alkaline D) product data sheet",
+      "publisher": "Energizer",
+      "url": "https://files.batteryjunction.com/frontend/files/energizer/datasheet/ENERGIZER-E95-UpdatedDataSheet.pdf"
+    },
+    {
+      "title": "Eveready 1250 (zinc-carbon D) product data sheet",
+      "publisher": "Eveready Battery Co.",
+      "url": "https://files.batteryjunction.com/frontend/files/energizer-1250.pdf"
+    },
+    {
+      "title": "Ever Ready",
+      "publisher": "Grace's Guide to British Industrial History",
+      "url": "https://www.gracesguide.co.uk/Ever-Ready"
+    },
+    {
+      "title": "\"Ever-Ready\" electric torch",
+      "publisher": "Science Museum Group Collection",
+      "url": "https://collection.sciencemuseumgroup.org.uk/objects/co42978/ever-ready-electric-torch"
+    },
+    {
+      "title": "Luminous efficacy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Luminous_efficacy"
+    },
+    {
+      "title": "Photon Micro-Light product history",
+      "publisher": "Battery Junction (retailer page)",
+      "url": "https://www.batteryjunction.com/brands/shop-by-brand/photon"
+    },
+    {
+      "title": "The Flashlight",
+      "publisher": "American Heritage of Invention & Technology",
+      "url": "https://www.inventionandtech.com/node/86663"
+    },
+    {
+      "title": "LED lamp",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/LED_lamp"
+    }
+  ]
+}

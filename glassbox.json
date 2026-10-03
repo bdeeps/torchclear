@@ -1,0 +1,106 @@
+{
+  "slug": "torchclear",
+  "box": 139,
+  "date": "2026-10-06",
+  "title": "TorchClear",
+  "question": "How does a torch work?",
+  "hook": "Two cells, a spring, a switch and a mirror shaped like a parabola. Take a torch apart in 3D, follow the current round its loop, and trace the rays that turn a tiny lamp into a beam.",
+  "thumbText": "HOW A TORCH WORKS",
+  "field": "machines",
+  "minutes": 14,
+  "tags": [
+    "torch",
+    "flashlight",
+    "circuit",
+    "battery",
+    "LED",
+    "filament bulb",
+    "parabolic reflector",
+    "ray tracing",
+    "dry cell",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Ten parts in a tube",
+      "text": "A torch is two cells, a spring, two metal strips, a switch, a lamp, a reflector, a lens and a case. The spring in the tail pushes everything into contact, and it is also a wire that carries the current."
+    },
+    {
+      "title": "One closed loop",
+      "text": "Current flows only round a complete circuit: out of the cell's + cap, through the lamp, along a strip to the switch, along another strip to the spring and back into the − end. Electrons really travel the other way round. As cells run down they push less and waste more inside, so a bulb fades to orange."
+    },
+    {
+      "title": "A hot wire against a glowing chip",
+      "text": "A filament bulb makes light by being white-hot, at about 2,450 K, and wastes nearly all its energy as heat: about 8 lumens per watt. A white LED is a blue chip under a yellow phosphor. It gives 100 to 200 lumens per watt, but needs a driver to hold its current steady."
+    },
+    {
+      "title": "A parabola makes the beam",
+      "text": "The reflector is a parabola. Every ray that leaves its focus bounces off parallel to the axis, so a lamp at the focus gives a tight hotspot. Rays that miss the mirror make the dim spill around it. Move the lamp a millimetre or two and the beam spreads: that is the focus ring."
+    },
+    {
+      "title": "What is inside the cells",
+      "text": "In a zinc-carbon cell the can itself is the fuel, which is why flat ones leak. An alkaline cell is built inside out and lasts about three times as long at torch currents. NiMH and lithium-ion cells are rolled-up foils that can be recharged. Run time is roughly capacity divided by current."
+    },
+    {
+      "title": "Torches with no shop-bought cells",
+      "text": "A shake torch slides a magnet through a coil: the changing field makes a voltage, a capacitor stores the charge and an LED uses it. An emergency light keeps a battery charged from the mains and switches itself on in a power cut."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Circuit",
+      "def": "A complete loop that current can flow round, from one end of a cell, through the lamp, and back to the other end."
+    },
+    {
+      "term": "Conventional current",
+      "def": "The direction current is drawn on diagrams, from + to −. The electrons in the wire actually move from − to +."
+    },
+    {
+      "term": "Internal resistance",
+      "def": "The resistance inside a cell. It takes a share of the cell's voltage whenever current flows, and it grows as the cell runs down."
+    },
+    {
+      "term": "Lumen",
+      "def": "The unit for all the visible light a lamp gives out. A classic torch bulb gives about 10; a one-watt white LED about 140."
+    },
+    {
+      "term": "Candela and lux",
+      "def": "Candela measure how concentrated a beam is in one direction. Lux measure the light landing on a surface: candela divided by distance squared."
+    },
+    {
+      "term": "Parabola and focus",
+      "def": "The curve of the reflector, and the point inside it where the lamp must sit for the reflected rays to leave parallel."
+    },
+    {
+      "term": "Hotspot and spill",
+      "def": "The bright centre of a beam made by the reflector, and the dim wide ring made by light that missed it."
+    },
+    {
+      "term": "Capacity",
+      "def": "How much charge a cell can deliver, in amp-hours. Run time is roughly capacity divided by current."
+    },
+    {
+      "term": "Induction",
+      "def": "Making a voltage in a coil by changing the magnetic field through it, as a shake torch does."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "torchclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
